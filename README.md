@@ -4,7 +4,7 @@ A **simple to-do list** project built with **Next.js** for learning and practice
 
 ---
 
-![SimpleToDoList Screenshot](public/screenshot.png)
+![SimpleToDoList Screenshot](SimpleToDoList/to-do-list/public/screenshot.png)
 
 ---
 
